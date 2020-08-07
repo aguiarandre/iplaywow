@@ -9,7 +9,7 @@
 By the time the vanilla *World of Warcraft Classic* was revamped, players all over the world seemed to get nostalgic and servers started to get overly crowded and waiting times have hugely increased.  
 
 I was one of the nostalgic ones and also wanted to play. By that time, the only time I had to play WoW was monday and friday's night, as soon as I got back from work. However, whenever I came home around 7 or 8PM, the waiting line was at least 4 hours, which would make me start playing around midnight. 
-<p align='center'><img src="img/wait_wow.jpg" width="50%"/> </p>
+<p align='center'><img src="img/wait_wow.jpg" width="70%"/> </p>
 
 This is a simple project that I made to overcome this problem. I thought it was interesting to upload it to git because maybe it would help someone else. Here you may encounter stuff about `automating windows movements`, (simple) `OCR`, `send whatsapp message`, `handling tokens in public repos`, `logging results` 
 
@@ -50,7 +50,7 @@ So I've used the `pyautogui` package itself to store a screenshot of the screen,
 I've used a package called `pytesseract` to extract the text. (Installing this package may be difficult, try following instructions [on the tesseract page](https://github.com/UB-Mannheim/tesseract/wiki) and [on this youtube video](https://www.youtube.com/watch?v=haHuVAUGY5Y)) 
 
 For an image like the following:
-<p align='center'><img src="img/stallag_queue_20190908_220646.png" width="50%"/> </p>
+<p align='center'><img src="img/stallag_queue_20190908_220646.png" width="70%"/> </p>
 
 The result of running
 ```python
