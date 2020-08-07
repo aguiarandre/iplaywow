@@ -50,7 +50,7 @@ So I've used the `pyautogui` package itself to store a screenshot of the screen,
 I've used a package called `pytesseract` to extract the text. (Installing this package may be difficult, try following instructions [on the tesseract page](https://github.com/UB-Mannheim/tesseract/wiki) and [on this youtube video](https://www.youtube.com/watch?v=haHuVAUGY5Y)) 
 
 For an image like the following:
-![stallag_queue_20190908_220646.png](img/stallag_queue_20190908_220646.png)
+<p align='center'><img src="img/stallag_queue_20190908_220646.png" width="50%"/> </p>
 
 The result of running
 ```python
