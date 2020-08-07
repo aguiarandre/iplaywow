@@ -1,5 +1,8 @@
-# IPlayWow
-![line-wow](img/line_wow.png)
+<h1 align='center'>:video_game: IPlayWow :video_game:</h1>
+
+<p align='center'> Never wait in line again for World of Warcraft.</p>
+<p align='center'><img src="img/line_wow.png" width="50%"/> </p>
+
 
 ## Context - World of Warcraft Nostalgia
 
@@ -74,9 +77,27 @@ estimated_time = re.findall('Estimated time: \d+ \w+', phrase)
 
 ### Handling Tokens 
 
+- TODO: `.env`
 
 ### Logging
 
+-TODO: `logging to files` 
 
 ### Send Whatsapp Message - Twillio
+
+- TODO: `Twillio setup`
+
+# Important stuff
+
+## Acknowledgements
+
+- [Automating the Boring Stuff](http://automatetheboringstuff.com/) for the inspiration 
+- [pytesseract instalation tutorial](https://www.youtube.com/watch?v=haHuVAUGY5Y)
+
+
+## Songs listened while programming :musical_score:
+
+- [I Play Wow](https://www.youtube.com/watch?v=ltM5jHIJFw4) 
+- [Don't make me get my main](https://www.youtube.com/watch?v=TR7FC-h0Fb8)
+
 
