@@ -35,7 +35,7 @@ moveTo(x=100, y=500, duration=1)
 ```
 and you will see something like:
 
-![pyautogui](img/pyautogui.gif)
+![pyautogui](img/pyautogui-v2.gif)
 
 ### OCR
 
