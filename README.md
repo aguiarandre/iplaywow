@@ -9,7 +9,7 @@
 By the time the vanilla *World of Warcraft Classic* was revamped, players all over the world seemed to get nostalgic and servers started to get overly crowded and waiting times have hugely increased.  
 
 I was one of the nostalgic ones and also wanted to play. By that time, the only time I had to play WoW was monday and friday's night, as soon as I got back from work. However, whenever I came home around 7 or 8PM, the waiting line was at least 4 hours, which would make me start playing around midnight. 
-![waiting-time](img/wait_wow.png). 
+<p align='center'><img src="img/wait_wow.png" width="50%"/> </p>
 
 This is a simple project that I made to overcome this problem. I thought it was interesting to upload it to git because maybe it would help someone else. Here you may encounter stuff about `automating windows movements`, (simple) `OCR`, `send whatsapp message`, `handling tokens in public repos`, `logging results` 
 
@@ -37,8 +37,7 @@ moveTo(x=100, y=1000, duration=1)
 moveTo(x=100, y=500, duration=1)
 ```
 and you will see something like:
-
-![pyautogui](img/pyautogui-v2.gif)
+<p align='center'><img src="img/pyautogui-v2.gif" width="50%"/> </p>
 
 ### OCR
 
